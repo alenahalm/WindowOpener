@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OPENWINDOW</string>
+    <string name="openBtn">Открыть окно</string>
+    <string name="closeBtn">Закрыть окно</string>
+</resources>
